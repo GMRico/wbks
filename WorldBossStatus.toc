@@ -1,0 +1,7 @@
+## Interface: 50400
+## Title: World Boss Kill Status
+## Notes: Displays whether you've completed world boss kills this week using /wb.
+## Author: GMRico
+## Version: 1.0
+
+WorldBossStatus.lua
