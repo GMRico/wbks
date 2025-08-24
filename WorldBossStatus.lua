@@ -12,7 +12,7 @@ SlashCmdList["WB"] = function(msg)
     local completed = {}
     GetQuestsCompleted(completed)
     
-    print("|cFFFFFF00World Boss Status (This Week):|r")
+    print("|cFFFFFF00World Boss Kill Status (This Week):|r")
     
     for i, boss in ipairs(bosses) do
         local status = completed[boss.id] and "|cFF00FF00Killed|r" or "|cFFFF0000Not Killed|r"
