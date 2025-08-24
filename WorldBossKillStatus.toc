@@ -4,4 +4,4 @@
 ## Author: GMRico
 ## Version: 1.0
 
-WorldBossStatus.lua
+WorldBossKillStatus.lua
